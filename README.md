@@ -1,0 +1,1 @@
+# nextjs-clerk-change-localizations
